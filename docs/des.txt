@@ -1,0 +1,17 @@
+backend-auth-core → Alok (Backend & Authentication)
+
+frontend-ui → Saumya (UI/UX)
+
+linux-security → Sarfaraz (Linux Security & Logging)
+
+
+// for github branch
+For Alok (Backend & Authentication)
+
+git checkout -b backend-auth-core
+For Saumya (Frontend UI/UX)
+
+git checkout -b frontend-ui
+For Sarfaraz (Linux Security & Logging)
+
+git checkout -b linux-security
